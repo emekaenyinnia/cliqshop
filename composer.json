@@ -1,0 +1,15 @@
+{
+    "name": "cliq/shopping",
+    "autoload": {
+        "psr-4": {
+            "Cliq\\Shopping\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "emeka enyinnia",
+            "email": "cliqshop@gmail.com"
+        }
+    ],
+    "require": {}
+}
